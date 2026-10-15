@@ -1,3 +1,5 @@
 (sym_lib_table
-  (lib (name ice4pi)(type Legacy)(uri ${KIPRJMOD}/ice4pi.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "ice4pi")(type "Legacy")(uri "${KIPRJMOD}/ice4pi.lib")(options "")(descr ""))
+  (lib (name "lsi")(type "KiCad")(uri "${KIPRJMOD}/lsi.kicad_sym")(options "")(descr ""))
 )
